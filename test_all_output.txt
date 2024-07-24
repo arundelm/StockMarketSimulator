@@ -1,0 +1,1672 @@
+Processing trades...
+Trader 1 sold 30 shares of stock 1 to Trader 0.
+Median trade value on stock 1 at time 0 is 60.
+Trader 0 sold 20 shares of stock 0 to Trader 2.
+Median trade value on stock 0 at time 1 is 40.
+Median trade value on stock 1 at time 1 is 60.
+Trader 2 sold 25 shares of stock 2 to Trader 1.
+Median trade value on stock 0 at time 2 is 40.
+Median trade value on stock 1 at time 2 is 60.
+Median trade value on stock 2 at time 2 is 50.
+Median trade value on stock 0 at time 3 is 40.
+Median trade value on stock 1 at time 3 is 60.
+Median trade value on stock 2 at time 3 is 50.
+Median trade value on stock 0 at time 4 is 40.
+Median trade value on stock 1 at time 4 is 60.
+Median trade value on stock 2 at time 4 is 50.
+Trader 3 sold 30 shares of stock 0 to Trader 4.
+Median trade value on stock 0 at time 5 is 50.
+Median trade value on stock 1 at time 5 is 60.
+Median trade value on stock 2 at time 5 is 50.
+Trader 0 sold 25 shares of stock 2 to Trader 1.
+Median trade value on stock 0 at time 6 is 50.
+Median trade value on stock 1 at time 6 is 60.
+Median trade value on stock 2 at time 6 is 50.
+Trader 2 sold 25 shares of stock 2 to Trader 1.
+Median trade value on stock 0 at time 7 is 50.
+Median trade value on stock 1 at time 7 is 60.
+Median trade value on stock 2 at time 7 is 50.
+Median trade value on stock 0 at time 8 is 50.
+Median trade value on stock 1 at time 8 is 60.
+Median trade value on stock 2 at time 8 is 50.
+Median trade value on stock 0 at time 9 is 50.
+Median trade value on stock 1 at time 9 is 60.
+Median trade value on stock 2 at time 9 is 50.
+Trader 2 sold 40 shares of stock 0 to Trader 1.
+Median trade value on stock 0 at time 10 is 60.
+Median trade value on stock 1 at time 10 is 60.
+Median trade value on stock 2 at time 10 is 50.
+Median trade value on stock 0 at time 11 is 60.
+Median trade value on stock 1 at time 11 is 60.
+Median trade value on stock 2 at time 11 is 50.
+Trader 1 sold 30 shares of stock 2 to Trader 3.
+Median trade value on stock 0 at time 12 is 60.
+Median trade value on stock 1 at time 12 is 60.
+Median trade value on stock 2 at time 12 is 50.
+Trader 0 sold 60 shares of stock 0 to Trader 2.
+Median trade value on stock 0 at time 13 is 70.
+Median trade value on stock 1 at time 13 is 60.
+Median trade value on stock 2 at time 13 is 50.
+Trader 1 sold 20 shares of stock 2 to Trader 3.
+Median trade value on stock 0 at time 14 is 70.
+Median trade value on stock 1 at time 14 is 60.
+Median trade value on stock 2 at time 14 is 50.
+Median trade value on stock 0 at time 15 is 70.
+Median trade value on stock 1 at time 15 is 60.
+Median trade value on stock 2 at time 15 is 50.
+Trader 4 sold 40 shares of stock 0 to Trader 1.
+Median trade value on stock 0 at time 16 is 80.
+Median trade value on stock 1 at time 16 is 60.
+Median trade value on stock 2 at time 16 is 50.
+Median trade value on stock 0 at time 17 is 80.
+Median trade value on stock 1 at time 17 is 60.
+Median trade value on stock 2 at time 17 is 50.
+Median trade value on stock 0 at time 18 is 80.
+Median trade value on stock 1 at time 18 is 60.
+Median trade value on stock 2 at time 18 is 50.
+Trader 2 sold 50 shares of stock 0 to Trader 3.
+Median trade value on stock 0 at time 19 is 80.
+Median trade value on stock 1 at time 19 is 60.
+Median trade value on stock 2 at time 19 is 50.
+Median trade value on stock 0 at time 20 is 80.
+Median trade value on stock 1 at time 20 is 60.
+Median trade value on stock 2 at time 20 is 50.
+Median trade value on stock 0 at time 21 is 80.
+Median trade value on stock 1 at time 21 is 60.
+Median trade value on stock 2 at time 21 is 50.
+Trader 1 sold 20 shares of stock 0 to Trader 3.
+Median trade value on stock 0 at time 22 is 80.
+Median trade value on stock 1 at time 22 is 60.
+Median trade value on stock 2 at time 22 is 50.
+Median trade value on stock 0 at time 23 is 80.
+Median trade value on stock 1 at time 23 is 60.
+Median trade value on stock 2 at time 23 is 50.
+Median trade value on stock 0 at time 24 is 80.
+Median trade value on stock 1 at time 24 is 60.
+Median trade value on stock 2 at time 24 is 50.
+Trader 0 sold 60 shares of stock 0 to Trader 4.
+Median trade value on stock 0 at time 25 is 70.
+Median trade value on stock 1 at time 25 is 60.
+Median trade value on stock 2 at time 25 is 50.
+Median trade value on stock 0 at time 26 is 70.
+Median trade value on stock 1 at time 26 is 60.
+Median trade value on stock 2 at time 26 is 50.
+Median trade value on stock 0 at time 27 is 70.
+Median trade value on stock 1 at time 27 is 60.
+Median trade value on stock 2 at time 27 is 50.
+Trader 2 sold 30 shares of stock 0 to Trader 3.
+Median trade value on stock 0 at time 28 is 60.
+Median trade value on stock 1 at time 28 is 60.
+Median trade value on stock 2 at time 28 is 50.
+Median trade value on stock 0 at time 29 is 60.
+Median trade value on stock 1 at time 29 is 60.
+Median trade value on stock 2 at time 29 is 50.
+Median trade value on stock 0 at time 30 is 60.
+Median trade value on stock 1 at time 30 is 60.
+Median trade value on stock 2 at time 30 is 50.
+Trader 1 sold 40 shares of stock 0 to Trader 3.
+Median trade value on stock 0 at time 31 is 70.
+Median trade value on stock 1 at time 31 is 60.
+Median trade value on stock 2 at time 31 is 50.
+Median trade value on stock 0 at time 32 is 70.
+Median trade value on stock 1 at time 32 is 60.
+Median trade value on stock 2 at time 32 is 50.
+Trader 3 sold 60 shares of stock 0 to Trader 1.
+Median trade value on stock 0 at time 33 is 80.
+Median trade value on stock 1 at time 33 is 60.
+Median trade value on stock 2 at time 33 is 50.
+Median trade value on stock 0 at time 34 is 80.
+Median trade value on stock 1 at time 34 is 60.
+Median trade value on stock 2 at time 34 is 50.
+Median trade value on stock 0 at time 35 is 80.
+Median trade value on stock 1 at time 35 is 60.
+Median trade value on stock 2 at time 35 is 50.
+Trader 6 sold 20 shares of stock 10 to Trader 5.
+Median trade value on stock 0 at time 36 is 80.
+Median trade value on stock 1 at time 36 is 60.
+Median trade value on stock 2 at time 36 is 50.
+Median trade value on stock 10 at time 36 is 40.
+Trader 8 sold 30 shares of stock 50 to Trader 7.
+Median trade value on stock 0 at time 37 is 80.
+Median trade value on stock 1 at time 37 is 60.
+Median trade value on stock 2 at time 37 is 50.
+Median trade value on stock 10 at time 37 is 40.
+Median trade value on stock 50 at time 37 is 60.
+Trader 9 sold 40 shares of stock 100 to Trader 10.
+Median trade value on stock 0 at time 38 is 80.
+Median trade value on stock 1 at time 38 is 60.
+Median trade value on stock 2 at time 38 is 50.
+Median trade value on stock 10 at time 38 is 40.
+Median trade value on stock 50 at time 38 is 60.
+Median trade value on stock 100 at time 38 is 40.
+Trader 11 sold 60 shares of stock 150 to Trader 12.
+Median trade value on stock 0 at time 39 is 80.
+Median trade value on stock 1 at time 39 is 60.
+Median trade value on stock 2 at time 39 is 50.
+Median trade value on stock 10 at time 39 is 40.
+Median trade value on stock 50 at time 39 is 60.
+Median trade value on stock 100 at time 39 is 40.
+Median trade value on stock 150 at time 39 is 60.
+Trader 14 sold 50 shares of stock 200 to Trader 13.
+Median trade value on stock 0 at time 40 is 80.
+Median trade value on stock 1 at time 40 is 60.
+Median trade value on stock 2 at time 40 is 50.
+Median trade value on stock 10 at time 40 is 40.
+Median trade value on stock 50 at time 40 is 60.
+Median trade value on stock 100 at time 40 is 40.
+Median trade value on stock 150 at time 40 is 60.
+Median trade value on stock 200 at time 40 is 100.
+Trader 16 sold 30 shares of stock 30 to Trader 15.
+Median trade value on stock 0 at time 41 is 80.
+Median trade value on stock 1 at time 41 is 60.
+Median trade value on stock 2 at time 41 is 50.
+Median trade value on stock 10 at time 41 is 40.
+Median trade value on stock 30 at time 41 is 60.
+Median trade value on stock 50 at time 41 is 60.
+Median trade value on stock 100 at time 41 is 40.
+Median trade value on stock 150 at time 41 is 60.
+Median trade value on stock 200 at time 41 is 100.
+Trader 17 sold 40 shares of stock 40 to Trader 18.
+Median trade value on stock 0 at time 42 is 80.
+Median trade value on stock 1 at time 42 is 60.
+Median trade value on stock 2 at time 42 is 50.
+Median trade value on stock 10 at time 42 is 40.
+Median trade value on stock 30 at time 42 is 60.
+Median trade value on stock 40 at time 42 is 40.
+Median trade value on stock 50 at time 42 is 60.
+Median trade value on stock 100 at time 42 is 40.
+Median trade value on stock 150 at time 42 is 60.
+Median trade value on stock 200 at time 42 is 100.
+Trader 20 sold 50 shares of stock 60 to Trader 19.
+Median trade value on stock 0 at time 43 is 80.
+Median trade value on stock 1 at time 43 is 60.
+Median trade value on stock 2 at time 43 is 50.
+Median trade value on stock 10 at time 43 is 40.
+Median trade value on stock 30 at time 43 is 60.
+Median trade value on stock 40 at time 43 is 40.
+Median trade value on stock 50 at time 43 is 60.
+Median trade value on stock 60 at time 43 is 100.
+Median trade value on stock 100 at time 43 is 40.
+Median trade value on stock 150 at time 43 is 60.
+Median trade value on stock 200 at time 43 is 100.
+Trader 22 sold 30 shares of stock 70 to Trader 21.
+Median trade value on stock 0 at time 44 is 80.
+Median trade value on stock 1 at time 44 is 60.
+Median trade value on stock 2 at time 44 is 50.
+Median trade value on stock 10 at time 44 is 40.
+Median trade value on stock 30 at time 44 is 60.
+Median trade value on stock 40 at time 44 is 40.
+Median trade value on stock 50 at time 44 is 60.
+Median trade value on stock 60 at time 44 is 100.
+Median trade value on stock 70 at time 44 is 60.
+Median trade value on stock 100 at time 44 is 40.
+Median trade value on stock 150 at time 44 is 60.
+Median trade value on stock 200 at time 44 is 100.
+Trader 23 sold 40 shares of stock 80 to Trader 24.
+Median trade value on stock 0 at time 45 is 80.
+Median trade value on stock 1 at time 45 is 60.
+Median trade value on stock 2 at time 45 is 50.
+Median trade value on stock 10 at time 45 is 40.
+Median trade value on stock 30 at time 45 is 60.
+Median trade value on stock 40 at time 45 is 40.
+Median trade value on stock 50 at time 45 is 60.
+Median trade value on stock 60 at time 45 is 100.
+Median trade value on stock 70 at time 45 is 60.
+Median trade value on stock 80 at time 45 is 40.
+Median trade value on stock 100 at time 45 is 40.
+Median trade value on stock 150 at time 45 is 60.
+Median trade value on stock 200 at time 45 is 100.
+Trader 25 sold 50 shares of stock 90 to Trader 26.
+Median trade value on stock 0 at time 46 is 80.
+Median trade value on stock 1 at time 46 is 60.
+Median trade value on stock 2 at time 46 is 50.
+Median trade value on stock 10 at time 46 is 40.
+Median trade value on stock 30 at time 46 is 60.
+Median trade value on stock 40 at time 46 is 40.
+Median trade value on stock 50 at time 46 is 60.
+Median trade value on stock 60 at time 46 is 100.
+Median trade value on stock 70 at time 46 is 60.
+Median trade value on stock 80 at time 46 is 40.
+Median trade value on stock 90 at time 46 is 50.
+Median trade value on stock 100 at time 46 is 40.
+Median trade value on stock 150 at time 46 is 60.
+Median trade value on stock 200 at time 46 is 100.
+Trader 28 sold 40 shares of stock 110 to Trader 27.
+Median trade value on stock 0 at time 47 is 80.
+Median trade value on stock 1 at time 47 is 60.
+Median trade value on stock 2 at time 47 is 50.
+Median trade value on stock 10 at time 47 is 40.
+Median trade value on stock 30 at time 47 is 60.
+Median trade value on stock 40 at time 47 is 40.
+Median trade value on stock 50 at time 47 is 60.
+Median trade value on stock 60 at time 47 is 100.
+Median trade value on stock 70 at time 47 is 60.
+Median trade value on stock 80 at time 47 is 40.
+Median trade value on stock 90 at time 47 is 50.
+Median trade value on stock 100 at time 47 is 40.
+Median trade value on stock 110 at time 47 is 80.
+Median trade value on stock 150 at time 47 is 60.
+Median trade value on stock 200 at time 47 is 100.
+Trader 30 sold 30 shares of stock 120 to Trader 29.
+Median trade value on stock 0 at time 48 is 80.
+Median trade value on stock 1 at time 48 is 60.
+Median trade value on stock 2 at time 48 is 50.
+Median trade value on stock 10 at time 48 is 40.
+Median trade value on stock 30 at time 48 is 60.
+Median trade value on stock 40 at time 48 is 40.
+Median trade value on stock 50 at time 48 is 60.
+Median trade value on stock 60 at time 48 is 100.
+Median trade value on stock 70 at time 48 is 60.
+Median trade value on stock 80 at time 48 is 40.
+Median trade value on stock 90 at time 48 is 50.
+Median trade value on stock 100 at time 48 is 40.
+Median trade value on stock 110 at time 48 is 80.
+Median trade value on stock 120 at time 48 is 60.
+Median trade value on stock 150 at time 48 is 60.
+Median trade value on stock 200 at time 48 is 100.
+Trader 31 sold 40 shares of stock 130 to Trader 32.
+Median trade value on stock 0 at time 49 is 80.
+Median trade value on stock 1 at time 49 is 60.
+Median trade value on stock 2 at time 49 is 50.
+Median trade value on stock 10 at time 49 is 40.
+Median trade value on stock 30 at time 49 is 60.
+Median trade value on stock 40 at time 49 is 40.
+Median trade value on stock 50 at time 49 is 60.
+Median trade value on stock 60 at time 49 is 100.
+Median trade value on stock 70 at time 49 is 60.
+Median trade value on stock 80 at time 49 is 40.
+Median trade value on stock 90 at time 49 is 50.
+Median trade value on stock 100 at time 49 is 40.
+Median trade value on stock 110 at time 49 is 80.
+Median trade value on stock 120 at time 49 is 60.
+Median trade value on stock 130 at time 49 is 40.
+Median trade value on stock 150 at time 49 is 60.
+Median trade value on stock 200 at time 49 is 100.
+Trader 33 sold 30 shares of stock 140 to Trader 34.
+Median trade value on stock 0 at time 50 is 80.
+Median trade value on stock 1 at time 50 is 60.
+Median trade value on stock 2 at time 50 is 50.
+Median trade value on stock 10 at time 50 is 40.
+Median trade value on stock 30 at time 50 is 60.
+Median trade value on stock 40 at time 50 is 40.
+Median trade value on stock 50 at time 50 is 60.
+Median trade value on stock 60 at time 50 is 100.
+Median trade value on stock 70 at time 50 is 60.
+Median trade value on stock 80 at time 50 is 40.
+Median trade value on stock 90 at time 50 is 50.
+Median trade value on stock 100 at time 50 is 40.
+Median trade value on stock 110 at time 50 is 80.
+Median trade value on stock 120 at time 50 is 60.
+Median trade value on stock 130 at time 50 is 40.
+Median trade value on stock 140 at time 50 is 30.
+Median trade value on stock 150 at time 50 is 60.
+Median trade value on stock 200 at time 50 is 100.
+Trader 36 sold 50 shares of stock 150 to Trader 35.
+Median trade value on stock 0 at time 51 is 80.
+Median trade value on stock 1 at time 51 is 60.
+Median trade value on stock 2 at time 51 is 50.
+Median trade value on stock 10 at time 51 is 40.
+Median trade value on stock 30 at time 51 is 60.
+Median trade value on stock 40 at time 51 is 40.
+Median trade value on stock 50 at time 51 is 60.
+Median trade value on stock 60 at time 51 is 100.
+Median trade value on stock 70 at time 51 is 60.
+Median trade value on stock 80 at time 51 is 40.
+Median trade value on stock 90 at time 51 is 50.
+Median trade value on stock 100 at time 51 is 40.
+Median trade value on stock 110 at time 51 is 80.
+Median trade value on stock 120 at time 51 is 60.
+Median trade value on stock 130 at time 51 is 40.
+Median trade value on stock 140 at time 51 is 30.
+Median trade value on stock 150 at time 51 is 80.
+Median trade value on stock 200 at time 51 is 100.
+Trader 38 sold 40 shares of stock 160 to Trader 37.
+Median trade value on stock 0 at time 52 is 80.
+Median trade value on stock 1 at time 52 is 60.
+Median trade value on stock 2 at time 52 is 50.
+Median trade value on stock 10 at time 52 is 40.
+Median trade value on stock 30 at time 52 is 60.
+Median trade value on stock 40 at time 52 is 40.
+Median trade value on stock 50 at time 52 is 60.
+Median trade value on stock 60 at time 52 is 100.
+Median trade value on stock 70 at time 52 is 60.
+Median trade value on stock 80 at time 52 is 40.
+Median trade value on stock 90 at time 52 is 50.
+Median trade value on stock 100 at time 52 is 40.
+Median trade value on stock 110 at time 52 is 80.
+Median trade value on stock 120 at time 52 is 60.
+Median trade value on stock 130 at time 52 is 40.
+Median trade value on stock 140 at time 52 is 30.
+Median trade value on stock 150 at time 52 is 80.
+Median trade value on stock 160 at time 52 is 80.
+Median trade value on stock 200 at time 52 is 100.
+Trader 39 sold 60 shares of stock 170 to Trader 40.
+Median trade value on stock 0 at time 53 is 80.
+Median trade value on stock 1 at time 53 is 60.
+Median trade value on stock 2 at time 53 is 50.
+Median trade value on stock 10 at time 53 is 40.
+Median trade value on stock 30 at time 53 is 60.
+Median trade value on stock 40 at time 53 is 40.
+Median trade value on stock 50 at time 53 is 60.
+Median trade value on stock 60 at time 53 is 100.
+Median trade value on stock 70 at time 53 is 60.
+Median trade value on stock 80 at time 53 is 40.
+Median trade value on stock 90 at time 53 is 50.
+Median trade value on stock 100 at time 53 is 40.
+Median trade value on stock 110 at time 53 is 80.
+Median trade value on stock 120 at time 53 is 60.
+Median trade value on stock 130 at time 53 is 40.
+Median trade value on stock 140 at time 53 is 30.
+Median trade value on stock 150 at time 53 is 80.
+Median trade value on stock 160 at time 53 is 80.
+Median trade value on stock 170 at time 53 is 60.
+Median trade value on stock 200 at time 53 is 100.
+Trader 42 sold 40 shares of stock 180 to Trader 41.
+Median trade value on stock 0 at time 54 is 80.
+Median trade value on stock 1 at time 54 is 60.
+Median trade value on stock 2 at time 54 is 50.
+Median trade value on stock 10 at time 54 is 40.
+Median trade value on stock 30 at time 54 is 60.
+Median trade value on stock 40 at time 54 is 40.
+Median trade value on stock 50 at time 54 is 60.
+Median trade value on stock 60 at time 54 is 100.
+Median trade value on stock 70 at time 54 is 60.
+Median trade value on stock 80 at time 54 is 40.
+Median trade value on stock 90 at time 54 is 50.
+Median trade value on stock 100 at time 54 is 40.
+Median trade value on stock 110 at time 54 is 80.
+Median trade value on stock 120 at time 54 is 60.
+Median trade value on stock 130 at time 54 is 40.
+Median trade value on stock 140 at time 54 is 30.
+Median trade value on stock 150 at time 54 is 80.
+Median trade value on stock 160 at time 54 is 80.
+Median trade value on stock 170 at time 54 is 60.
+Median trade value on stock 180 at time 54 is 80.
+Median trade value on stock 200 at time 54 is 100.
+Trader 43 sold 50 shares of stock 190 to Trader 44.
+Median trade value on stock 0 at time 55 is 80.
+Median trade value on stock 1 at time 55 is 60.
+Median trade value on stock 2 at time 55 is 50.
+Median trade value on stock 10 at time 55 is 40.
+Median trade value on stock 30 at time 55 is 60.
+Median trade value on stock 40 at time 55 is 40.
+Median trade value on stock 50 at time 55 is 60.
+Median trade value on stock 60 at time 55 is 100.
+Median trade value on stock 70 at time 55 is 60.
+Median trade value on stock 80 at time 55 is 40.
+Median trade value on stock 90 at time 55 is 50.
+Median trade value on stock 100 at time 55 is 40.
+Median trade value on stock 110 at time 55 is 80.
+Median trade value on stock 120 at time 55 is 60.
+Median trade value on stock 130 at time 55 is 40.
+Median trade value on stock 140 at time 55 is 30.
+Median trade value on stock 150 at time 55 is 80.
+Median trade value on stock 160 at time 55 is 80.
+Median trade value on stock 170 at time 55 is 60.
+Median trade value on stock 180 at time 55 is 80.
+Median trade value on stock 190 at time 55 is 50.
+Median trade value on stock 200 at time 55 is 100.
+Trader 46 sold 60 shares of stock 200 to Trader 45.
+Median trade value on stock 0 at time 56 is 80.
+Median trade value on stock 1 at time 56 is 60.
+Median trade value on stock 2 at time 56 is 50.
+Median trade value on stock 10 at time 56 is 40.
+Median trade value on stock 30 at time 56 is 60.
+Median trade value on stock 40 at time 56 is 40.
+Median trade value on stock 50 at time 56 is 60.
+Median trade value on stock 60 at time 56 is 100.
+Median trade value on stock 70 at time 56 is 60.
+Median trade value on stock 80 at time 56 is 40.
+Median trade value on stock 90 at time 56 is 50.
+Median trade value on stock 100 at time 56 is 40.
+Median trade value on stock 110 at time 56 is 80.
+Median trade value on stock 120 at time 56 is 60.
+Median trade value on stock 130 at time 56 is 40.
+Median trade value on stock 140 at time 56 is 30.
+Median trade value on stock 150 at time 56 is 80.
+Median trade value on stock 160 at time 56 is 80.
+Median trade value on stock 170 at time 56 is 60.
+Median trade value on stock 180 at time 56 is 80.
+Median trade value on stock 190 at time 56 is 50.
+Median trade value on stock 200 at time 56 is 110.
+Trader 48 sold 30 shares of stock 110 to Trader 47.
+Median trade value on stock 0 at time 57 is 80.
+Median trade value on stock 1 at time 57 is 60.
+Median trade value on stock 2 at time 57 is 50.
+Median trade value on stock 10 at time 57 is 40.
+Median trade value on stock 30 at time 57 is 60.
+Median trade value on stock 40 at time 57 is 40.
+Median trade value on stock 50 at time 57 is 60.
+Median trade value on stock 60 at time 57 is 100.
+Median trade value on stock 70 at time 57 is 60.
+Median trade value on stock 80 at time 57 is 40.
+Median trade value on stock 90 at time 57 is 50.
+Median trade value on stock 100 at time 57 is 40.
+Median trade value on stock 110 at time 57 is 70.
+Median trade value on stock 120 at time 57 is 60.
+Median trade value on stock 130 at time 57 is 40.
+Median trade value on stock 140 at time 57 is 30.
+Median trade value on stock 150 at time 57 is 80.
+Median trade value on stock 160 at time 57 is 80.
+Median trade value on stock 170 at time 57 is 60.
+Median trade value on stock 180 at time 57 is 80.
+Median trade value on stock 190 at time 57 is 50.
+Median trade value on stock 200 at time 57 is 110.
+Trader 49 sold 40 shares of stock 120 to Trader 50.
+Median trade value on stock 0 at time 58 is 80.
+Median trade value on stock 1 at time 58 is 60.
+Median trade value on stock 2 at time 58 is 50.
+Median trade value on stock 10 at time 58 is 40.
+Median trade value on stock 30 at time 58 is 60.
+Median trade value on stock 40 at time 58 is 40.
+Median trade value on stock 50 at time 58 is 60.
+Median trade value on stock 60 at time 58 is 100.
+Median trade value on stock 70 at time 58 is 60.
+Median trade value on stock 80 at time 58 is 40.
+Median trade value on stock 90 at time 58 is 50.
+Median trade value on stock 100 at time 58 is 40.
+Median trade value on stock 110 at time 58 is 70.
+Median trade value on stock 120 at time 58 is 50.
+Median trade value on stock 130 at time 58 is 40.
+Median trade value on stock 140 at time 58 is 30.
+Median trade value on stock 150 at time 58 is 80.
+Median trade value on stock 160 at time 58 is 80.
+Median trade value on stock 170 at time 58 is 60.
+Median trade value on stock 180 at time 58 is 80.
+Median trade value on stock 190 at time 58 is 50.
+Median trade value on stock 200 at time 58 is 110.
+Trader 52 sold 50 shares of stock 130 to Trader 51.
+Median trade value on stock 0 at time 59 is 80.
+Median trade value on stock 1 at time 59 is 60.
+Median trade value on stock 2 at time 59 is 50.
+Median trade value on stock 10 at time 59 is 40.
+Median trade value on stock 30 at time 59 is 60.
+Median trade value on stock 40 at time 59 is 40.
+Median trade value on stock 50 at time 59 is 60.
+Median trade value on stock 60 at time 59 is 100.
+Median trade value on stock 70 at time 59 is 60.
+Median trade value on stock 80 at time 59 is 40.
+Median trade value on stock 90 at time 59 is 50.
+Median trade value on stock 100 at time 59 is 40.
+Median trade value on stock 110 at time 59 is 70.
+Median trade value on stock 120 at time 59 is 50.
+Median trade value on stock 130 at time 59 is 70.
+Median trade value on stock 140 at time 59 is 30.
+Median trade value on stock 150 at time 59 is 80.
+Median trade value on stock 160 at time 59 is 80.
+Median trade value on stock 170 at time 59 is 60.
+Median trade value on stock 180 at time 59 is 80.
+Median trade value on stock 190 at time 59 is 50.
+Median trade value on stock 200 at time 59 is 110.
+Trader 54 sold 30 shares of stock 140 to Trader 53.
+Median trade value on stock 0 at time 60 is 80.
+Median trade value on stock 1 at time 60 is 60.
+Median trade value on stock 2 at time 60 is 50.
+Median trade value on stock 10 at time 60 is 40.
+Median trade value on stock 30 at time 60 is 60.
+Median trade value on stock 40 at time 60 is 40.
+Median trade value on stock 50 at time 60 is 60.
+Median trade value on stock 60 at time 60 is 100.
+Median trade value on stock 70 at time 60 is 60.
+Median trade value on stock 80 at time 60 is 40.
+Median trade value on stock 90 at time 60 is 50.
+Median trade value on stock 100 at time 60 is 40.
+Median trade value on stock 110 at time 60 is 70.
+Median trade value on stock 120 at time 60 is 50.
+Median trade value on stock 130 at time 60 is 70.
+Median trade value on stock 140 at time 60 is 45.
+Median trade value on stock 150 at time 60 is 80.
+Median trade value on stock 160 at time 60 is 80.
+Median trade value on stock 170 at time 60 is 60.
+Median trade value on stock 180 at time 60 is 80.
+Median trade value on stock 190 at time 60 is 50.
+Median trade value on stock 200 at time 60 is 110.
+Trader 55 sold 40 shares of stock 150 to Trader 56.
+Median trade value on stock 0 at time 61 is 80.
+Median trade value on stock 1 at time 61 is 60.
+Median trade value on stock 2 at time 61 is 50.
+Median trade value on stock 10 at time 61 is 40.
+Median trade value on stock 30 at time 61 is 60.
+Median trade value on stock 40 at time 61 is 40.
+Median trade value on stock 50 at time 61 is 60.
+Median trade value on stock 60 at time 61 is 100.
+Median trade value on stock 70 at time 61 is 60.
+Median trade value on stock 80 at time 61 is 40.
+Median trade value on stock 90 at time 61 is 50.
+Median trade value on stock 100 at time 61 is 40.
+Median trade value on stock 110 at time 61 is 70.
+Median trade value on stock 120 at time 61 is 50.
+Median trade value on stock 130 at time 61 is 70.
+Median trade value on stock 140 at time 61 is 45.
+Median trade value on stock 150 at time 61 is 60.
+Median trade value on stock 160 at time 61 is 80.
+Median trade value on stock 170 at time 61 is 60.
+Median trade value on stock 180 at time 61 is 80.
+Median trade value on stock 190 at time 61 is 50.
+Median trade value on stock 200 at time 61 is 110.
+Trader 57 sold 50 shares of stock 160 to Trader 58.
+Median trade value on stock 0 at time 62 is 80.
+Median trade value on stock 1 at time 62 is 60.
+Median trade value on stock 2 at time 62 is 50.
+Median trade value on stock 10 at time 62 is 40.
+Median trade value on stock 30 at time 62 is 60.
+Median trade value on stock 40 at time 62 is 40.
+Median trade value on stock 50 at time 62 is 60.
+Median trade value on stock 60 at time 62 is 100.
+Median trade value on stock 70 at time 62 is 60.
+Median trade value on stock 80 at time 62 is 40.
+Median trade value on stock 90 at time 62 is 50.
+Median trade value on stock 100 at time 62 is 40.
+Median trade value on stock 110 at time 62 is 70.
+Median trade value on stock 120 at time 62 is 50.
+Median trade value on stock 130 at time 62 is 70.
+Median trade value on stock 140 at time 62 is 45.
+Median trade value on stock 150 at time 62 is 60.
+Median trade value on stock 160 at time 62 is 65.
+Median trade value on stock 170 at time 62 is 60.
+Median trade value on stock 180 at time 62 is 80.
+Median trade value on stock 190 at time 62 is 50.
+Median trade value on stock 200 at time 62 is 110.
+Trader 60 sold 40 shares of stock 170 to Trader 59.
+Median trade value on stock 0 at time 63 is 80.
+Median trade value on stock 1 at time 63 is 60.
+Median trade value on stock 2 at time 63 is 50.
+Median trade value on stock 10 at time 63 is 40.
+Median trade value on stock 30 at time 63 is 60.
+Median trade value on stock 40 at time 63 is 40.
+Median trade value on stock 50 at time 63 is 60.
+Median trade value on stock 60 at time 63 is 100.
+Median trade value on stock 70 at time 63 is 60.
+Median trade value on stock 80 at time 63 is 40.
+Median trade value on stock 90 at time 63 is 50.
+Median trade value on stock 100 at time 63 is 40.
+Median trade value on stock 110 at time 63 is 70.
+Median trade value on stock 120 at time 63 is 50.
+Median trade value on stock 130 at time 63 is 70.
+Median trade value on stock 140 at time 63 is 45.
+Median trade value on stock 150 at time 63 is 60.
+Median trade value on stock 160 at time 63 is 65.
+Median trade value on stock 170 at time 63 is 70.
+Median trade value on stock 180 at time 63 is 80.
+Median trade value on stock 190 at time 63 is 50.
+Median trade value on stock 200 at time 63 is 110.
+Trader 62 sold 30 shares of stock 180 to Trader 61.
+Median trade value on stock 0 at time 64 is 80.
+Median trade value on stock 1 at time 64 is 60.
+Median trade value on stock 2 at time 64 is 50.
+Median trade value on stock 10 at time 64 is 40.
+Median trade value on stock 30 at time 64 is 60.
+Median trade value on stock 40 at time 64 is 40.
+Median trade value on stock 50 at time 64 is 60.
+Median trade value on stock 60 at time 64 is 100.
+Median trade value on stock 70 at time 64 is 60.
+Median trade value on stock 80 at time 64 is 40.
+Median trade value on stock 90 at time 64 is 50.
+Median trade value on stock 100 at time 64 is 40.
+Median trade value on stock 110 at time 64 is 70.
+Median trade value on stock 120 at time 64 is 50.
+Median trade value on stock 130 at time 64 is 70.
+Median trade value on stock 140 at time 64 is 45.
+Median trade value on stock 150 at time 64 is 60.
+Median trade value on stock 160 at time 64 is 65.
+Median trade value on stock 170 at time 64 is 70.
+Median trade value on stock 180 at time 64 is 70.
+Median trade value on stock 190 at time 64 is 50.
+Median trade value on stock 200 at time 64 is 110.
+Trader 63 sold 40 shares of stock 190 to Trader 64.
+Median trade value on stock 0 at time 65 is 80.
+Median trade value on stock 1 at time 65 is 60.
+Median trade value on stock 2 at time 65 is 50.
+Median trade value on stock 10 at time 65 is 40.
+Median trade value on stock 30 at time 65 is 60.
+Median trade value on stock 40 at time 65 is 40.
+Median trade value on stock 50 at time 65 is 60.
+Median trade value on stock 60 at time 65 is 100.
+Median trade value on stock 70 at time 65 is 60.
+Median trade value on stock 80 at time 65 is 40.
+Median trade value on stock 90 at time 65 is 50.
+Median trade value on stock 100 at time 65 is 40.
+Median trade value on stock 110 at time 65 is 70.
+Median trade value on stock 120 at time 65 is 50.
+Median trade value on stock 130 at time 65 is 70.
+Median trade value on stock 140 at time 65 is 45.
+Median trade value on stock 150 at time 65 is 60.
+Median trade value on stock 160 at time 65 is 65.
+Median trade value on stock 170 at time 65 is 70.
+Median trade value on stock 180 at time 65 is 70.
+Median trade value on stock 190 at time 65 is 45.
+Median trade value on stock 200 at time 65 is 110.
+Trader 65 sold 30 shares of stock 200 to Trader 66.
+Median trade value on stock 0 at time 66 is 80.
+Median trade value on stock 1 at time 66 is 60.
+Median trade value on stock 2 at time 66 is 50.
+Median trade value on stock 10 at time 66 is 40.
+Median trade value on stock 30 at time 66 is 60.
+Median trade value on stock 40 at time 66 is 40.
+Median trade value on stock 50 at time 66 is 60.
+Median trade value on stock 60 at time 66 is 100.
+Median trade value on stock 70 at time 66 is 60.
+Median trade value on stock 80 at time 66 is 40.
+Median trade value on stock 90 at time 66 is 50.
+Median trade value on stock 100 at time 66 is 40.
+Median trade value on stock 110 at time 66 is 70.
+Median trade value on stock 120 at time 66 is 50.
+Median trade value on stock 130 at time 66 is 70.
+Median trade value on stock 140 at time 66 is 45.
+Median trade value on stock 150 at time 66 is 60.
+Median trade value on stock 160 at time 66 is 65.
+Median trade value on stock 170 at time 66 is 70.
+Median trade value on stock 180 at time 66 is 70.
+Median trade value on stock 190 at time 66 is 45.
+Median trade value on stock 200 at time 66 is 100.
+Trader 68 sold 50 shares of stock 110 to Trader 67.
+Median trade value on stock 0 at time 67 is 80.
+Median trade value on stock 1 at time 67 is 60.
+Median trade value on stock 2 at time 67 is 50.
+Median trade value on stock 10 at time 67 is 40.
+Median trade value on stock 30 at time 67 is 60.
+Median trade value on stock 40 at time 67 is 40.
+Median trade value on stock 50 at time 67 is 60.
+Median trade value on stock 60 at time 67 is 100.
+Median trade value on stock 70 at time 67 is 60.
+Median trade value on stock 80 at time 67 is 40.
+Median trade value on stock 90 at time 67 is 50.
+Median trade value on stock 100 at time 67 is 40.
+Median trade value on stock 110 at time 67 is 80.
+Median trade value on stock 120 at time 67 is 50.
+Median trade value on stock 130 at time 67 is 70.
+Median trade value on stock 140 at time 67 is 45.
+Median trade value on stock 150 at time 67 is 60.
+Median trade value on stock 160 at time 67 is 65.
+Median trade value on stock 170 at time 67 is 70.
+Median trade value on stock 180 at time 67 is 70.
+Median trade value on stock 190 at time 67 is 45.
+Median trade value on stock 200 at time 67 is 100.
+Trader 70 sold 40 shares of stock 120 to Trader 69.
+Median trade value on stock 0 at time 68 is 80.
+Median trade value on stock 1 at time 68 is 60.
+Median trade value on stock 2 at time 68 is 50.
+Median trade value on stock 10 at time 68 is 40.
+Median trade value on stock 30 at time 68 is 60.
+Median trade value on stock 40 at time 68 is 40.
+Median trade value on stock 50 at time 68 is 60.
+Median trade value on stock 60 at time 68 is 100.
+Median trade value on stock 70 at time 68 is 60.
+Median trade value on stock 80 at time 68 is 40.
+Median trade value on stock 90 at time 68 is 50.
+Median trade value on stock 100 at time 68 is 40.
+Median trade value on stock 110 at time 68 is 80.
+Median trade value on stock 120 at time 68 is 60.
+Median trade value on stock 130 at time 68 is 70.
+Median trade value on stock 140 at time 68 is 45.
+Median trade value on stock 150 at time 68 is 60.
+Median trade value on stock 160 at time 68 is 65.
+Median trade value on stock 170 at time 68 is 70.
+Median trade value on stock 180 at time 68 is 70.
+Median trade value on stock 190 at time 68 is 45.
+Median trade value on stock 200 at time 68 is 100.
+Trader 71 sold 60 shares of stock 130 to Trader 72.
+Median trade value on stock 0 at time 69 is 80.
+Median trade value on stock 1 at time 69 is 60.
+Median trade value on stock 2 at time 69 is 50.
+Median trade value on stock 10 at time 69 is 40.
+Median trade value on stock 30 at time 69 is 60.
+Median trade value on stock 40 at time 69 is 40.
+Median trade value on stock 50 at time 69 is 60.
+Median trade value on stock 60 at time 69 is 100.
+Median trade value on stock 70 at time 69 is 60.
+Median trade value on stock 80 at time 69 is 40.
+Median trade value on stock 90 at time 69 is 50.
+Median trade value on stock 100 at time 69 is 40.
+Median trade value on stock 110 at time 69 is 80.
+Median trade value on stock 120 at time 69 is 60.
+Median trade value on stock 130 at time 69 is 60.
+Median trade value on stock 140 at time 69 is 45.
+Median trade value on stock 150 at time 69 is 60.
+Median trade value on stock 160 at time 69 is 65.
+Median trade value on stock 170 at time 69 is 70.
+Median trade value on stock 180 at time 69 is 70.
+Median trade value on stock 190 at time 69 is 45.
+Median trade value on stock 200 at time 69 is 100.
+Trader 74 sold 40 shares of stock 140 to Trader 73.
+Median trade value on stock 0 at time 70 is 80.
+Median trade value on stock 1 at time 70 is 60.
+Median trade value on stock 2 at time 70 is 50.
+Median trade value on stock 10 at time 70 is 40.
+Median trade value on stock 30 at time 70 is 60.
+Median trade value on stock 40 at time 70 is 40.
+Median trade value on stock 50 at time 70 is 60.
+Median trade value on stock 60 at time 70 is 100.
+Median trade value on stock 70 at time 70 is 60.
+Median trade value on stock 80 at time 70 is 40.
+Median trade value on stock 90 at time 70 is 50.
+Median trade value on stock 100 at time 70 is 40.
+Median trade value on stock 110 at time 70 is 80.
+Median trade value on stock 120 at time 70 is 60.
+Median trade value on stock 130 at time 70 is 60.
+Median trade value on stock 140 at time 70 is 60.
+Median trade value on stock 150 at time 70 is 60.
+Median trade value on stock 160 at time 70 is 65.
+Median trade value on stock 170 at time 70 is 70.
+Median trade value on stock 180 at time 70 is 70.
+Median trade value on stock 190 at time 70 is 45.
+Median trade value on stock 200 at time 70 is 100.
+Trader 75 sold 50 shares of stock 150 to Trader 76.
+Median trade value on stock 0 at time 71 is 80.
+Median trade value on stock 1 at time 71 is 60.
+Median trade value on stock 2 at time 71 is 50.
+Median trade value on stock 10 at time 71 is 40.
+Median trade value on stock 30 at time 71 is 60.
+Median trade value on stock 40 at time 71 is 40.
+Median trade value on stock 50 at time 71 is 60.
+Median trade value on stock 60 at time 71 is 100.
+Median trade value on stock 70 at time 71 is 60.
+Median trade value on stock 80 at time 71 is 40.
+Median trade value on stock 90 at time 71 is 50.
+Median trade value on stock 100 at time 71 is 40.
+Median trade value on stock 110 at time 71 is 80.
+Median trade value on stock 120 at time 71 is 60.
+Median trade value on stock 130 at time 71 is 60.
+Median trade value on stock 140 at time 71 is 60.
+Median trade value on stock 150 at time 71 is 55.
+Median trade value on stock 160 at time 71 is 65.
+Median trade value on stock 170 at time 71 is 70.
+Median trade value on stock 180 at time 71 is 70.
+Median trade value on stock 190 at time 71 is 45.
+Median trade value on stock 200 at time 71 is 100.
+Trader 78 sold 60 shares of stock 160 to Trader 77.
+Median trade value on stock 0 at time 72 is 80.
+Median trade value on stock 1 at time 72 is 60.
+Median trade value on stock 2 at time 72 is 50.
+Median trade value on stock 10 at time 72 is 40.
+Median trade value on stock 30 at time 72 is 60.
+Median trade value on stock 40 at time 72 is 40.
+Median trade value on stock 50 at time 72 is 60.
+Median trade value on stock 60 at time 72 is 100.
+Median trade value on stock 70 at time 72 is 60.
+Median trade value on stock 80 at time 72 is 40.
+Median trade value on stock 90 at time 72 is 50.
+Median trade value on stock 100 at time 72 is 40.
+Median trade value on stock 110 at time 72 is 80.
+Median trade value on stock 120 at time 72 is 60.
+Median trade value on stock 130 at time 72 is 60.
+Median trade value on stock 140 at time 72 is 60.
+Median trade value on stock 150 at time 72 is 55.
+Median trade value on stock 160 at time 72 is 80.
+Median trade value on stock 170 at time 72 is 70.
+Median trade value on stock 180 at time 72 is 70.
+Median trade value on stock 190 at time 72 is 45.
+Median trade value on stock 200 at time 72 is 100.
+Trader 80 sold 30 shares of stock 170 to Trader 79.
+Median trade value on stock 0 at time 73 is 80.
+Median trade value on stock 1 at time 73 is 60.
+Median trade value on stock 2 at time 73 is 50.
+Median trade value on stock 10 at time 73 is 40.
+Median trade value on stock 30 at time 73 is 60.
+Median trade value on stock 40 at time 73 is 40.
+Median trade value on stock 50 at time 73 is 60.
+Median trade value on stock 60 at time 73 is 100.
+Median trade value on stock 70 at time 73 is 60.
+Median trade value on stock 80 at time 73 is 40.
+Median trade value on stock 90 at time 73 is 50.
+Median trade value on stock 100 at time 73 is 40.
+Median trade value on stock 110 at time 73 is 80.
+Median trade value on stock 120 at time 73 is 60.
+Median trade value on stock 130 at time 73 is 60.
+Median trade value on stock 140 at time 73 is 60.
+Median trade value on stock 150 at time 73 is 55.
+Median trade value on stock 160 at time 73 is 80.
+Median trade value on stock 170 at time 73 is 60.
+Median trade value on stock 180 at time 73 is 70.
+Median trade value on stock 190 at time 73 is 45.
+Median trade value on stock 200 at time 73 is 100.
+Trader 81 sold 40 shares of stock 180 to Trader 82.
+Median trade value on stock 0 at time 74 is 80.
+Median trade value on stock 1 at time 74 is 60.
+Median trade value on stock 2 at time 74 is 50.
+Median trade value on stock 10 at time 74 is 40.
+Median trade value on stock 30 at time 74 is 60.
+Median trade value on stock 40 at time 74 is 40.
+Median trade value on stock 50 at time 74 is 60.
+Median trade value on stock 60 at time 74 is 100.
+Median trade value on stock 70 at time 74 is 60.
+Median trade value on stock 80 at time 74 is 40.
+Median trade value on stock 90 at time 74 is 50.
+Median trade value on stock 100 at time 74 is 40.
+Median trade value on stock 110 at time 74 is 80.
+Median trade value on stock 120 at time 74 is 60.
+Median trade value on stock 130 at time 74 is 60.
+Median trade value on stock 140 at time 74 is 60.
+Median trade value on stock 150 at time 74 is 55.
+Median trade value on stock 160 at time 74 is 80.
+Median trade value on stock 170 at time 74 is 60.
+Median trade value on stock 180 at time 74 is 60.
+Median trade value on stock 190 at time 74 is 45.
+Median trade value on stock 200 at time 74 is 100.
+Trader 84 sold 50 shares of stock 190 to Trader 83.
+Median trade value on stock 0 at time 75 is 80.
+Median trade value on stock 1 at time 75 is 60.
+Median trade value on stock 2 at time 75 is 50.
+Median trade value on stock 10 at time 75 is 40.
+Median trade value on stock 30 at time 75 is 60.
+Median trade value on stock 40 at time 75 is 40.
+Median trade value on stock 50 at time 75 is 60.
+Median trade value on stock 60 at time 75 is 100.
+Median trade value on stock 70 at time 75 is 60.
+Median trade value on stock 80 at time 75 is 40.
+Median trade value on stock 90 at time 75 is 50.
+Median trade value on stock 100 at time 75 is 40.
+Median trade value on stock 110 at time 75 is 80.
+Median trade value on stock 120 at time 75 is 60.
+Median trade value on stock 130 at time 75 is 60.
+Median trade value on stock 140 at time 75 is 60.
+Median trade value on stock 150 at time 75 is 55.
+Median trade value on stock 160 at time 75 is 80.
+Median trade value on stock 170 at time 75 is 60.
+Median trade value on stock 180 at time 75 is 60.
+Median trade value on stock 190 at time 75 is 50.
+Median trade value on stock 200 at time 75 is 100.
+Trader 86 sold 30 shares of stock 200 to Trader 85.
+Median trade value on stock 0 at time 76 is 80.
+Median trade value on stock 1 at time 76 is 60.
+Median trade value on stock 2 at time 76 is 50.
+Median trade value on stock 10 at time 76 is 40.
+Median trade value on stock 30 at time 76 is 60.
+Median trade value on stock 40 at time 76 is 40.
+Median trade value on stock 50 at time 76 is 60.
+Median trade value on stock 60 at time 76 is 100.
+Median trade value on stock 70 at time 76 is 60.
+Median trade value on stock 80 at time 76 is 40.
+Median trade value on stock 90 at time 76 is 50.
+Median trade value on stock 100 at time 76 is 40.
+Median trade value on stock 110 at time 76 is 80.
+Median trade value on stock 120 at time 76 is 60.
+Median trade value on stock 130 at time 76 is 60.
+Median trade value on stock 140 at time 76 is 60.
+Median trade value on stock 150 at time 76 is 55.
+Median trade value on stock 160 at time 76 is 80.
+Median trade value on stock 170 at time 76 is 60.
+Median trade value on stock 180 at time 76 is 60.
+Median trade value on stock 190 at time 76 is 50.
+Median trade value on stock 200 at time 76 is 80.
+Trader 87 sold 40 shares of stock 110 to Trader 88.
+Median trade value on stock 0 at time 77 is 80.
+Median trade value on stock 1 at time 77 is 60.
+Median trade value on stock 2 at time 77 is 50.
+Median trade value on stock 10 at time 77 is 40.
+Median trade value on stock 30 at time 77 is 60.
+Median trade value on stock 40 at time 77 is 40.
+Median trade value on stock 50 at time 77 is 60.
+Median trade value on stock 60 at time 77 is 100.
+Median trade value on stock 70 at time 77 is 60.
+Median trade value on stock 80 at time 77 is 40.
+Median trade value on stock 90 at time 77 is 50.
+Median trade value on stock 100 at time 77 is 40.
+Median trade value on stock 110 at time 77 is 70.
+Median trade value on stock 120 at time 77 is 60.
+Median trade value on stock 130 at time 77 is 60.
+Median trade value on stock 140 at time 77 is 60.
+Median trade value on stock 150 at time 77 is 55.
+Median trade value on stock 160 at time 77 is 80.
+Median trade value on stock 170 at time 77 is 60.
+Median trade value on stock 180 at time 77 is 60.
+Median trade value on stock 190 at time 77 is 50.
+Median trade value on stock 200 at time 77 is 80.
+Trader 89 sold 50 shares of stock 120 to Trader 90.
+Median trade value on stock 0 at time 78 is 80.
+Median trade value on stock 1 at time 78 is 60.
+Median trade value on stock 2 at time 78 is 50.
+Median trade value on stock 10 at time 78 is 40.
+Median trade value on stock 30 at time 78 is 60.
+Median trade value on stock 40 at time 78 is 40.
+Median trade value on stock 50 at time 78 is 60.
+Median trade value on stock 60 at time 78 is 100.
+Median trade value on stock 70 at time 78 is 60.
+Median trade value on stock 80 at time 78 is 40.
+Median trade value on stock 90 at time 78 is 50.
+Median trade value on stock 100 at time 78 is 40.
+Median trade value on stock 110 at time 78 is 70.
+Median trade value on stock 120 at time 78 is 55.
+Median trade value on stock 130 at time 78 is 60.
+Median trade value on stock 140 at time 78 is 60.
+Median trade value on stock 150 at time 78 is 55.
+Median trade value on stock 160 at time 78 is 80.
+Median trade value on stock 170 at time 78 is 60.
+Median trade value on stock 180 at time 78 is 60.
+Median trade value on stock 190 at time 78 is 50.
+Median trade value on stock 200 at time 78 is 80.
+Trader 92 sold 40 shares of stock 130 to Trader 91.
+Median trade value on stock 0 at time 79 is 80.
+Median trade value on stock 1 at time 79 is 60.
+Median trade value on stock 2 at time 79 is 50.
+Median trade value on stock 10 at time 79 is 40.
+Median trade value on stock 30 at time 79 is 60.
+Median trade value on stock 40 at time 79 is 40.
+Median trade value on stock 50 at time 79 is 60.
+Median trade value on stock 60 at time 79 is 100.
+Median trade value on stock 70 at time 79 is 60.
+Median trade value on stock 80 at time 79 is 40.
+Median trade value on stock 90 at time 79 is 50.
+Median trade value on stock 100 at time 79 is 40.
+Median trade value on stock 110 at time 79 is 70.
+Median trade value on stock 120 at time 79 is 55.
+Median trade value on stock 130 at time 79 is 70.
+Median trade value on stock 140 at time 79 is 60.
+Median trade value on stock 150 at time 79 is 55.
+Median trade value on stock 160 at time 79 is 80.
+Median trade value on stock 170 at time 79 is 60.
+Median trade value on stock 180 at time 79 is 60.
+Median trade value on stock 190 at time 79 is 50.
+Median trade value on stock 200 at time 79 is 80.
+Trader 94 sold 30 shares of stock 140 to Trader 93.
+Median trade value on stock 0 at time 80 is 80.
+Median trade value on stock 1 at time 80 is 60.
+Median trade value on stock 2 at time 80 is 50.
+Median trade value on stock 10 at time 80 is 40.
+Median trade value on stock 30 at time 80 is 60.
+Median trade value on stock 40 at time 80 is 40.
+Median trade value on stock 50 at time 80 is 60.
+Median trade value on stock 60 at time 80 is 100.
+Median trade value on stock 70 at time 80 is 60.
+Median trade value on stock 80 at time 80 is 40.
+Median trade value on stock 90 at time 80 is 50.
+Median trade value on stock 100 at time 80 is 40.
+Median trade value on stock 110 at time 80 is 70.
+Median trade value on stock 120 at time 80 is 55.
+Median trade value on stock 130 at time 80 is 70.
+Median trade value on stock 140 at time 80 is 60.
+Median trade value on stock 150 at time 80 is 55.
+Median trade value on stock 160 at time 80 is 80.
+Median trade value on stock 170 at time 80 is 60.
+Median trade value on stock 180 at time 80 is 60.
+Median trade value on stock 190 at time 80 is 50.
+Median trade value on stock 200 at time 80 is 80.
+Trader 95 sold 40 shares of stock 150 to Trader 96.
+Median trade value on stock 0 at time 81 is 80.
+Median trade value on stock 1 at time 81 is 60.
+Median trade value on stock 2 at time 81 is 50.
+Median trade value on stock 10 at time 81 is 40.
+Median trade value on stock 30 at time 81 is 60.
+Median trade value on stock 40 at time 81 is 40.
+Median trade value on stock 50 at time 81 is 60.
+Median trade value on stock 60 at time 81 is 100.
+Median trade value on stock 70 at time 81 is 60.
+Median trade value on stock 80 at time 81 is 40.
+Median trade value on stock 90 at time 81 is 50.
+Median trade value on stock 100 at time 81 is 40.
+Median trade value on stock 110 at time 81 is 70.
+Median trade value on stock 120 at time 81 is 55.
+Median trade value on stock 130 at time 81 is 70.
+Median trade value on stock 140 at time 81 is 60.
+Median trade value on stock 150 at time 81 is 50.
+Median trade value on stock 160 at time 81 is 80.
+Median trade value on stock 170 at time 81 is 60.
+Median trade value on stock 180 at time 81 is 60.
+Median trade value on stock 190 at time 81 is 50.
+Median trade value on stock 200 at time 81 is 80.
+Trader 97 sold 30 shares of stock 160 to Trader 98.
+Median trade value on stock 0 at time 82 is 80.
+Median trade value on stock 1 at time 82 is 60.
+Median trade value on stock 2 at time 82 is 50.
+Median trade value on stock 10 at time 82 is 40.
+Median trade value on stock 30 at time 82 is 60.
+Median trade value on stock 40 at time 82 is 40.
+Median trade value on stock 50 at time 82 is 60.
+Median trade value on stock 60 at time 82 is 100.
+Median trade value on stock 70 at time 82 is 60.
+Median trade value on stock 80 at time 82 is 40.
+Median trade value on stock 90 at time 82 is 50.
+Median trade value on stock 100 at time 82 is 40.
+Median trade value on stock 110 at time 82 is 70.
+Median trade value on stock 120 at time 82 is 55.
+Median trade value on stock 130 at time 82 is 70.
+Median trade value on stock 140 at time 82 is 60.
+Median trade value on stock 150 at time 82 is 50.
+Median trade value on stock 160 at time 82 is 65.
+Median trade value on stock 170 at time 82 is 60.
+Median trade value on stock 180 at time 82 is 60.
+Median trade value on stock 190 at time 82 is 50.
+Median trade value on stock 200 at time 82 is 80.
+Trader 0 sold 50 shares of stock 170 to Trader 99.
+Median trade value on stock 0 at time 83 is 80.
+Median trade value on stock 1 at time 83 is 60.
+Median trade value on stock 2 at time 83 is 50.
+Median trade value on stock 10 at time 83 is 40.
+Median trade value on stock 30 at time 83 is 60.
+Median trade value on stock 40 at time 83 is 40.
+Median trade value on stock 50 at time 83 is 60.
+Median trade value on stock 60 at time 83 is 100.
+Median trade value on stock 70 at time 83 is 60.
+Median trade value on stock 80 at time 83 is 40.
+Median trade value on stock 90 at time 83 is 50.
+Median trade value on stock 100 at time 83 is 40.
+Median trade value on stock 110 at time 83 is 70.
+Median trade value on stock 120 at time 83 is 55.
+Median trade value on stock 130 at time 83 is 70.
+Median trade value on stock 140 at time 83 is 60.
+Median trade value on stock 150 at time 83 is 50.
+Median trade value on stock 160 at time 83 is 65.
+Median trade value on stock 170 at time 83 is 70.
+Median trade value on stock 180 at time 83 is 60.
+Median trade value on stock 190 at time 83 is 50.
+Median trade value on stock 200 at time 83 is 80.
+Trader 2 sold 40 shares of stock 180 to Trader 1.
+Median trade value on stock 0 at time 84 is 80.
+Median trade value on stock 1 at time 84 is 60.
+Median trade value on stock 2 at time 84 is 50.
+Median trade value on stock 10 at time 84 is 40.
+Median trade value on stock 30 at time 84 is 60.
+Median trade value on stock 40 at time 84 is 40.
+Median trade value on stock 50 at time 84 is 60.
+Median trade value on stock 60 at time 84 is 100.
+Median trade value on stock 70 at time 84 is 60.
+Median trade value on stock 80 at time 84 is 40.
+Median trade value on stock 90 at time 84 is 50.
+Median trade value on stock 100 at time 84 is 40.
+Median trade value on stock 110 at time 84 is 70.
+Median trade value on stock 120 at time 84 is 55.
+Median trade value on stock 130 at time 84 is 70.
+Median trade value on stock 140 at time 84 is 60.
+Median trade value on stock 150 at time 84 is 50.
+Median trade value on stock 160 at time 84 is 65.
+Median trade value on stock 170 at time 84 is 70.
+Median trade value on stock 180 at time 84 is 70.
+Median trade value on stock 190 at time 84 is 50.
+Median trade value on stock 200 at time 84 is 80.
+Trader 3 sold 60 shares of stock 190 to Trader 4.
+Median trade value on stock 0 at time 85 is 80.
+Median trade value on stock 1 at time 85 is 60.
+Median trade value on stock 2 at time 85 is 50.
+Median trade value on stock 10 at time 85 is 40.
+Median trade value on stock 30 at time 85 is 60.
+Median trade value on stock 40 at time 85 is 40.
+Median trade value on stock 50 at time 85 is 60.
+Median trade value on stock 60 at time 85 is 100.
+Median trade value on stock 70 at time 85 is 60.
+Median trade value on stock 80 at time 85 is 40.
+Median trade value on stock 90 at time 85 is 50.
+Median trade value on stock 100 at time 85 is 40.
+Median trade value on stock 110 at time 85 is 70.
+Median trade value on stock 120 at time 85 is 55.
+Median trade value on stock 130 at time 85 is 70.
+Median trade value on stock 140 at time 85 is 60.
+Median trade value on stock 150 at time 85 is 50.
+Median trade value on stock 160 at time 85 is 65.
+Median trade value on stock 170 at time 85 is 70.
+Median trade value on stock 180 at time 85 is 70.
+Median trade value on stock 190 at time 85 is 55.
+Median trade value on stock 200 at time 85 is 80.
+Trader 6 sold 40 shares of stock 200 to Trader 5.
+Median trade value on stock 0 at time 86 is 80.
+Median trade value on stock 1 at time 86 is 60.
+Median trade value on stock 2 at time 86 is 50.
+Median trade value on stock 10 at time 86 is 40.
+Median trade value on stock 30 at time 86 is 60.
+Median trade value on stock 40 at time 86 is 40.
+Median trade value on stock 50 at time 86 is 60.
+Median trade value on stock 60 at time 86 is 100.
+Median trade value on stock 70 at time 86 is 60.
+Median trade value on stock 80 at time 86 is 40.
+Median trade value on stock 90 at time 86 is 50.
+Median trade value on stock 100 at time 86 is 40.
+Median trade value on stock 110 at time 86 is 70.
+Median trade value on stock 120 at time 86 is 55.
+Median trade value on stock 130 at time 86 is 70.
+Median trade value on stock 140 at time 86 is 60.
+Median trade value on stock 150 at time 86 is 50.
+Median trade value on stock 160 at time 86 is 65.
+Median trade value on stock 170 at time 86 is 70.
+Median trade value on stock 180 at time 86 is 70.
+Median trade value on stock 190 at time 86 is 55.
+Median trade value on stock 200 at time 86 is 80.
+Trader 7 sold 50 shares of stock 110 to Trader 8.
+Median trade value on stock 0 at time 87 is 80.
+Median trade value on stock 1 at time 87 is 60.
+Median trade value on stock 2 at time 87 is 50.
+Median trade value on stock 10 at time 87 is 40.
+Median trade value on stock 30 at time 87 is 60.
+Median trade value on stock 40 at time 87 is 40.
+Median trade value on stock 50 at time 87 is 60.
+Median trade value on stock 60 at time 87 is 100.
+Median trade value on stock 70 at time 87 is 60.
+Median trade value on stock 80 at time 87 is 40.
+Median trade value on stock 90 at time 87 is 50.
+Median trade value on stock 100 at time 87 is 40.
+Median trade value on stock 110 at time 87 is 60.
+Median trade value on stock 120 at time 87 is 55.
+Median trade value on stock 130 at time 87 is 70.
+Median trade value on stock 140 at time 87 is 60.
+Median trade value on stock 150 at time 87 is 50.
+Median trade value on stock 160 at time 87 is 65.
+Median trade value on stock 170 at time 87 is 70.
+Median trade value on stock 180 at time 87 is 70.
+Median trade value on stock 190 at time 87 is 55.
+Median trade value on stock 200 at time 87 is 80.
+Median trade value on stock 0 at time 88 is 80.
+Median trade value on stock 1 at time 88 is 60.
+Median trade value on stock 2 at time 88 is 50.
+Median trade value on stock 10 at time 88 is 40.
+Median trade value on stock 30 at time 88 is 60.
+Median trade value on stock 40 at time 88 is 40.
+Median trade value on stock 50 at time 88 is 60.
+Median trade value on stock 60 at time 88 is 100.
+Median trade value on stock 70 at time 88 is 60.
+Median trade value on stock 80 at time 88 is 40.
+Median trade value on stock 90 at time 88 is 50.
+Median trade value on stock 100 at time 88 is 40.
+Median trade value on stock 110 at time 88 is 60.
+Median trade value on stock 120 at time 88 is 55.
+Median trade value on stock 130 at time 88 is 70.
+Median trade value on stock 140 at time 88 is 60.
+Median trade value on stock 150 at time 88 is 50.
+Median trade value on stock 160 at time 88 is 65.
+Median trade value on stock 170 at time 88 is 70.
+Median trade value on stock 180 at time 88 is 70.
+Median trade value on stock 190 at time 88 is 55.
+Median trade value on stock 200 at time 88 is 80.
+---End of Day---
+Transactions: 69
+---Trader Evaluation---
+Trader 0 executed 430 buy orders and 235 sell orders, with a net long position of 195 shares.
+Trader 1 executed 305 buy orders and 240 sell orders, with a net long position of 65 shares.
+Trader 2 executed 190 buy orders and 610 sell orders, with a net short position of -420 shares.
+Trader 3 executed 350 buy orders and 305 sell orders, with a net long position of 45 shares.
+Trader 4 executed 295 buy orders and 140 sell orders, with a net long position of 155 shares.
+Trader 5 executed 80 buy orders and 0 sell orders, with a net long position of 80 shares.
+Trader 6 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 7 executed 30 buy orders and 50 sell orders, with a net short position of -20 shares.
+Trader 8 executed 50 buy orders and 30 sell orders, with a net long position of 20 shares.
+Trader 9 executed 60 buy orders and 40 sell orders, with a net long position of 20 shares.
+Trader 10 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 11 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 12 executed 60 buy orders and 0 sell orders, with a net long position of 60 shares.
+Trader 13 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 14 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 15 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 16 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 17 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 18 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 19 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 20 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 21 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 22 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 23 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 24 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 25 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 26 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 27 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 28 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 29 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 30 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 31 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 32 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 33 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 34 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 35 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 36 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 37 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 38 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 39 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 40 executed 60 buy orders and 0 sell orders, with a net long position of 60 shares.
+Trader 41 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 42 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 43 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 44 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 45 executed 60 buy orders and 0 sell orders, with a net long position of 60 shares.
+Trader 46 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 47 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 48 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 49 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 50 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 51 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 52 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 53 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 54 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 55 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 56 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 57 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 58 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 59 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 60 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 61 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 62 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 63 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 64 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 65 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 66 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 67 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 68 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 69 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 70 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 71 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 72 executed 60 buy orders and 0 sell orders, with a net long position of 60 shares.
+Trader 73 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 74 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 75 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 76 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 77 executed 60 buy orders and 0 sell orders, with a net long position of 60 shares.
+Trader 78 executed 0 buy orders and 60 sell orders, with a net short position of -60 shares.
+Trader 79 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 80 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 81 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 82 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 83 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 84 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 85 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 86 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 87 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 88 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 89 executed 0 buy orders and 50 sell orders, with a net short position of -50 shares.
+Trader 90 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+Trader 91 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 92 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 93 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 94 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 95 executed 0 buy orders and 40 sell orders, with a net short position of -40 shares.
+Trader 96 executed 40 buy orders and 0 sell orders, with a net long position of 40 shares.
+Trader 97 executed 0 buy orders and 30 sell orders, with a net short position of -30 shares.
+Trader 98 executed 30 buy orders and 0 sell orders, with a net long position of 30 shares.
+Trader 99 executed 50 buy orders and 0 sell orders, with a net long position of 50 shares.
+---Market Watcher---
+A market watcher would see an price spike on stock 0 with a price increase of 20.
+A market watcher would see a price drop on stock 0 with a price decrease of 40.
+A market watcher would see an price spike on stock 1 with a price increase of 70.
+A market watcher would see a price drop on stock 1 with a price decrease of 70.
+A market watcher would see an price spike on stock 2 with a price increase of 50.
+A market watcher would see a price drop on stock 2 with a price decrease of 100.
+A market watcher would not see a price spike on stock 3.
+A market watcher would not see a price drop on stock 3.
+A market watcher would not see a price spike on stock 4.
+A market watcher would not see a price drop on stock 4.
+A market watcher would not see a price spike on stock 5.
+A market watcher would not see a price drop on stock 5.
+A market watcher would not see a price spike on stock 6.
+A market watcher would not see a price drop on stock 6.
+A market watcher would not see a price spike on stock 7.
+A market watcher would not see a price drop on stock 7.
+A market watcher would not see a price spike on stock 8.
+A market watcher would not see a price drop on stock 8.
+A market watcher would not see a price spike on stock 9.
+A market watcher would not see a price drop on stock 9.
+A market watcher would not see a price spike on stock 10.
+A market watcher would not see a price drop on stock 10.
+A market watcher would not see a price spike on stock 11.
+A market watcher would not see a price drop on stock 11.
+A market watcher would not see a price spike on stock 12.
+A market watcher would not see a price drop on stock 12.
+A market watcher would not see a price spike on stock 13.
+A market watcher would not see a price drop on stock 13.
+A market watcher would not see a price spike on stock 14.
+A market watcher would not see a price drop on stock 14.
+A market watcher would not see a price spike on stock 15.
+A market watcher would not see a price drop on stock 15.
+A market watcher would not see a price spike on stock 16.
+A market watcher would not see a price drop on stock 16.
+A market watcher would not see a price spike on stock 17.
+A market watcher would not see a price drop on stock 17.
+A market watcher would not see a price spike on stock 18.
+A market watcher would not see a price drop on stock 18.
+A market watcher would not see a price spike on stock 19.
+A market watcher would not see a price drop on stock 19.
+A market watcher would not see a price spike on stock 20.
+A market watcher would not see a price drop on stock 20.
+A market watcher would not see a price spike on stock 21.
+A market watcher would not see a price drop on stock 21.
+A market watcher would not see a price spike on stock 22.
+A market watcher would not see a price drop on stock 22.
+A market watcher would not see a price spike on stock 23.
+A market watcher would not see a price drop on stock 23.
+A market watcher would not see a price spike on stock 24.
+A market watcher would not see a price drop on stock 24.
+A market watcher would not see a price spike on stock 25.
+A market watcher would not see a price drop on stock 25.
+A market watcher would not see a price spike on stock 26.
+A market watcher would not see a price drop on stock 26.
+A market watcher would not see a price spike on stock 27.
+A market watcher would not see a price drop on stock 27.
+A market watcher would not see a price spike on stock 28.
+A market watcher would not see a price drop on stock 28.
+A market watcher would not see a price spike on stock 29.
+A market watcher would not see a price drop on stock 29.
+A market watcher would not see a price spike on stock 30.
+A market watcher would not see a price drop on stock 30.
+A market watcher would not see a price spike on stock 31.
+A market watcher would not see a price drop on stock 31.
+A market watcher would not see a price spike on stock 32.
+A market watcher would not see a price drop on stock 32.
+A market watcher would not see a price spike on stock 33.
+A market watcher would not see a price drop on stock 33.
+A market watcher would not see a price spike on stock 34.
+A market watcher would not see a price drop on stock 34.
+A market watcher would not see a price spike on stock 35.
+A market watcher would not see a price drop on stock 35.
+A market watcher would not see a price spike on stock 36.
+A market watcher would not see a price drop on stock 36.
+A market watcher would not see a price spike on stock 37.
+A market watcher would not see a price drop on stock 37.
+A market watcher would not see a price spike on stock 38.
+A market watcher would not see a price drop on stock 38.
+A market watcher would not see a price spike on stock 39.
+A market watcher would not see a price drop on stock 39.
+A market watcher would not see a price spike on stock 40.
+A market watcher would not see a price drop on stock 40.
+A market watcher would not see a price spike on stock 41.
+A market watcher would not see a price drop on stock 41.
+A market watcher would not see a price spike on stock 42.
+A market watcher would not see a price drop on stock 42.
+A market watcher would not see a price spike on stock 43.
+A market watcher would not see a price drop on stock 43.
+A market watcher would not see a price spike on stock 44.
+A market watcher would not see a price drop on stock 44.
+A market watcher would not see a price spike on stock 45.
+A market watcher would not see a price drop on stock 45.
+A market watcher would not see a price spike on stock 46.
+A market watcher would not see a price drop on stock 46.
+A market watcher would not see a price spike on stock 47.
+A market watcher would not see a price drop on stock 47.
+A market watcher would not see a price spike on stock 48.
+A market watcher would not see a price drop on stock 48.
+A market watcher would not see a price spike on stock 49.
+A market watcher would not see a price drop on stock 49.
+A market watcher would not see a price spike on stock 50.
+A market watcher would not see a price drop on stock 50.
+A market watcher would not see a price spike on stock 51.
+A market watcher would not see a price drop on stock 51.
+A market watcher would not see a price spike on stock 52.
+A market watcher would not see a price drop on stock 52.
+A market watcher would not see a price spike on stock 53.
+A market watcher would not see a price drop on stock 53.
+A market watcher would not see a price spike on stock 54.
+A market watcher would not see a price drop on stock 54.
+A market watcher would not see a price spike on stock 55.
+A market watcher would not see a price drop on stock 55.
+A market watcher would not see a price spike on stock 56.
+A market watcher would not see a price drop on stock 56.
+A market watcher would not see a price spike on stock 57.
+A market watcher would not see a price drop on stock 57.
+A market watcher would not see a price spike on stock 58.
+A market watcher would not see a price drop on stock 58.
+A market watcher would not see a price spike on stock 59.
+A market watcher would not see a price drop on stock 59.
+A market watcher would not see a price spike on stock 60.
+A market watcher would not see a price drop on stock 60.
+A market watcher would not see a price spike on stock 61.
+A market watcher would not see a price drop on stock 61.
+A market watcher would not see a price spike on stock 62.
+A market watcher would not see a price drop on stock 62.
+A market watcher would not see a price spike on stock 63.
+A market watcher would not see a price drop on stock 63.
+A market watcher would not see a price spike on stock 64.
+A market watcher would not see a price drop on stock 64.
+A market watcher would not see a price spike on stock 65.
+A market watcher would not see a price drop on stock 65.
+A market watcher would not see a price spike on stock 66.
+A market watcher would not see a price drop on stock 66.
+A market watcher would not see a price spike on stock 67.
+A market watcher would not see a price drop on stock 67.
+A market watcher would not see a price spike on stock 68.
+A market watcher would not see a price drop on stock 68.
+A market watcher would not see a price spike on stock 69.
+A market watcher would not see a price drop on stock 69.
+A market watcher would not see a price spike on stock 70.
+A market watcher would not see a price drop on stock 70.
+A market watcher would not see a price spike on stock 71.
+A market watcher would not see a price drop on stock 71.
+A market watcher would not see a price spike on stock 72.
+A market watcher would not see a price drop on stock 72.
+A market watcher would not see a price spike on stock 73.
+A market watcher would not see a price drop on stock 73.
+A market watcher would not see a price spike on stock 74.
+A market watcher would not see a price drop on stock 74.
+A market watcher would not see a price spike on stock 75.
+A market watcher would not see a price drop on stock 75.
+A market watcher would not see a price spike on stock 76.
+A market watcher would not see a price drop on stock 76.
+A market watcher would not see a price spike on stock 77.
+A market watcher would not see a price drop on stock 77.
+A market watcher would not see a price spike on stock 78.
+A market watcher would not see a price drop on stock 78.
+A market watcher would not see a price spike on stock 79.
+A market watcher would not see a price drop on stock 79.
+A market watcher would not see a price spike on stock 80.
+A market watcher would not see a price drop on stock 80.
+A market watcher would not see a price spike on stock 81.
+A market watcher would not see a price drop on stock 81.
+A market watcher would not see a price spike on stock 82.
+A market watcher would not see a price drop on stock 82.
+A market watcher would not see a price spike on stock 83.
+A market watcher would not see a price drop on stock 83.
+A market watcher would not see a price spike on stock 84.
+A market watcher would not see a price drop on stock 84.
+A market watcher would not see a price spike on stock 85.
+A market watcher would not see a price drop on stock 85.
+A market watcher would not see a price spike on stock 86.
+A market watcher would not see a price drop on stock 86.
+A market watcher would not see a price spike on stock 87.
+A market watcher would not see a price drop on stock 87.
+A market watcher would not see a price spike on stock 88.
+A market watcher would not see a price drop on stock 88.
+A market watcher would not see a price spike on stock 89.
+A market watcher would not see a price drop on stock 89.
+A market watcher would not see a price spike on stock 90.
+A market watcher would not see a price drop on stock 90.
+A market watcher would not see a price spike on stock 91.
+A market watcher would not see a price drop on stock 91.
+A market watcher would not see a price spike on stock 92.
+A market watcher would not see a price drop on stock 92.
+A market watcher would not see a price spike on stock 93.
+A market watcher would not see a price drop on stock 93.
+A market watcher would not see a price spike on stock 94.
+A market watcher would not see a price drop on stock 94.
+A market watcher would not see a price spike on stock 95.
+A market watcher would not see a price drop on stock 95.
+A market watcher would not see a price spike on stock 96.
+A market watcher would not see a price drop on stock 96.
+A market watcher would not see a price spike on stock 97.
+A market watcher would not see a price drop on stock 97.
+A market watcher would not see a price spike on stock 98.
+A market watcher would not see a price drop on stock 98.
+A market watcher would not see a price spike on stock 99.
+A market watcher would not see a price drop on stock 99.
+A market watcher would not see a price spike on stock 100.
+A market watcher would not see a price drop on stock 100.
+A market watcher would not see a price spike on stock 101.
+A market watcher would not see a price drop on stock 101.
+A market watcher would not see a price spike on stock 102.
+A market watcher would not see a price drop on stock 102.
+A market watcher would not see a price spike on stock 103.
+A market watcher would not see a price drop on stock 103.
+A market watcher would not see a price spike on stock 104.
+A market watcher would not see a price drop on stock 104.
+A market watcher would not see a price spike on stock 105.
+A market watcher would not see a price drop on stock 105.
+A market watcher would not see a price spike on stock 106.
+A market watcher would not see a price drop on stock 106.
+A market watcher would not see a price spike on stock 107.
+A market watcher would not see a price drop on stock 107.
+A market watcher would not see a price spike on stock 108.
+A market watcher would not see a price drop on stock 108.
+A market watcher would not see a price spike on stock 109.
+A market watcher would not see a price drop on stock 109.
+A market watcher would see an price spike on stock 110 with a price increase of 100.
+A market watcher would see a price drop on stock 110 with a price decrease of 100.
+A market watcher would not see a price spike on stock 111.
+A market watcher would not see a price drop on stock 111.
+A market watcher would not see a price spike on stock 112.
+A market watcher would not see a price drop on stock 112.
+A market watcher would not see a price spike on stock 113.
+A market watcher would not see a price drop on stock 113.
+A market watcher would not see a price spike on stock 114.
+A market watcher would not see a price drop on stock 114.
+A market watcher would not see a price spike on stock 115.
+A market watcher would not see a price drop on stock 115.
+A market watcher would not see a price spike on stock 116.
+A market watcher would not see a price drop on stock 116.
+A market watcher would not see a price spike on stock 117.
+A market watcher would not see a price drop on stock 117.
+A market watcher would not see a price spike on stock 118.
+A market watcher would not see a price drop on stock 118.
+A market watcher would not see a price spike on stock 119.
+A market watcher would not see a price drop on stock 119.
+A market watcher would see an price spike on stock 120 with a price increase of 130.
+A market watcher would not see a price drop on stock 120.
+A market watcher would not see a price spike on stock 121.
+A market watcher would not see a price drop on stock 121.
+A market watcher would not see a price spike on stock 122.
+A market watcher would not see a price drop on stock 122.
+A market watcher would not see a price spike on stock 123.
+A market watcher would not see a price drop on stock 123.
+A market watcher would not see a price spike on stock 124.
+A market watcher would not see a price drop on stock 124.
+A market watcher would not see a price spike on stock 125.
+A market watcher would not see a price drop on stock 125.
+A market watcher would not see a price spike on stock 126.
+A market watcher would not see a price drop on stock 126.
+A market watcher would not see a price spike on stock 127.
+A market watcher would not see a price drop on stock 127.
+A market watcher would not see a price spike on stock 128.
+A market watcher would not see a price drop on stock 128.
+A market watcher would not see a price spike on stock 129.
+A market watcher would not see a price drop on stock 129.
+A market watcher would see an price spike on stock 130 with a price increase of 60.
+A market watcher would see a price drop on stock 130 with a price decrease of 180.
+A market watcher would not see a price spike on stock 131.
+A market watcher would not see a price drop on stock 131.
+A market watcher would not see a price spike on stock 132.
+A market watcher would not see a price drop on stock 132.
+A market watcher would not see a price spike on stock 133.
+A market watcher would not see a price drop on stock 133.
+A market watcher would not see a price spike on stock 134.
+A market watcher would not see a price drop on stock 134.
+A market watcher would not see a price spike on stock 135.
+A market watcher would not see a price drop on stock 135.
+A market watcher would not see a price spike on stock 136.
+A market watcher would not see a price drop on stock 136.
+A market watcher would not see a price spike on stock 137.
+A market watcher would not see a price drop on stock 137.
+A market watcher would not see a price spike on stock 138.
+A market watcher would not see a price drop on stock 138.
+A market watcher would not see a price spike on stock 139.
+A market watcher would not see a price drop on stock 139.
+A market watcher would see an price spike on stock 140 with a price increase of 50.
+A market watcher would see a price drop on stock 140 with a price decrease of 90.
+A market watcher would not see a price spike on stock 141.
+A market watcher would not see a price drop on stock 141.
+A market watcher would not see a price spike on stock 142.
+A market watcher would not see a price drop on stock 142.
+A market watcher would not see a price spike on stock 143.
+A market watcher would not see a price drop on stock 143.
+A market watcher would not see a price spike on stock 144.
+A market watcher would not see a price drop on stock 144.
+A market watcher would not see a price spike on stock 145.
+A market watcher would not see a price drop on stock 145.
+A market watcher would not see a price spike on stock 146.
+A market watcher would not see a price drop on stock 146.
+A market watcher would not see a price spike on stock 147.
+A market watcher would not see a price drop on stock 147.
+A market watcher would not see a price spike on stock 148.
+A market watcher would not see a price drop on stock 148.
+A market watcher would not see a price spike on stock 149.
+A market watcher would not see a price drop on stock 149.
+A market watcher would see an price spike on stock 150 with a price increase of 120.
+A market watcher would see a price drop on stock 150 with a price decrease of 100.
+A market watcher would not see a price spike on stock 151.
+A market watcher would not see a price drop on stock 151.
+A market watcher would not see a price spike on stock 152.
+A market watcher would not see a price drop on stock 152.
+A market watcher would not see a price spike on stock 153.
+A market watcher would not see a price drop on stock 153.
+A market watcher would not see a price spike on stock 154.
+A market watcher would not see a price drop on stock 154.
+A market watcher would not see a price spike on stock 155.
+A market watcher would not see a price drop on stock 155.
+A market watcher would not see a price spike on stock 156.
+A market watcher would not see a price drop on stock 156.
+A market watcher would not see a price spike on stock 157.
+A market watcher would not see a price drop on stock 157.
+A market watcher would not see a price spike on stock 158.
+A market watcher would not see a price drop on stock 158.
+A market watcher would not see a price spike on stock 159.
+A market watcher would not see a price drop on stock 159.
+A market watcher would see an price spike on stock 160 with a price increase of 50.
+A market watcher would see a price drop on stock 160 with a price decrease of 130.
+A market watcher would not see a price spike on stock 161.
+A market watcher would not see a price drop on stock 161.
+A market watcher would not see a price spike on stock 162.
+A market watcher would not see a price drop on stock 162.
+A market watcher would not see a price spike on stock 163.
+A market watcher would not see a price drop on stock 163.
+A market watcher would not see a price spike on stock 164.
+A market watcher would not see a price drop on stock 164.
+A market watcher would not see a price spike on stock 165.
+A market watcher would not see a price drop on stock 165.
+A market watcher would not see a price spike on stock 166.
+A market watcher would not see a price drop on stock 166.
+A market watcher would not see a price spike on stock 167.
+A market watcher would not see a price drop on stock 167.
+A market watcher would not see a price spike on stock 168.
+A market watcher would not see a price drop on stock 168.
+A market watcher would not see a price spike on stock 169.
+A market watcher would not see a price drop on stock 169.
+A market watcher would see an price spike on stock 170 with a price increase of 100.
+A market watcher would see a price drop on stock 170 with a price decrease of 180.
+A market watcher would not see a price spike on stock 171.
+A market watcher would not see a price drop on stock 171.
+A market watcher would not see a price spike on stock 172.
+A market watcher would not see a price drop on stock 172.
+A market watcher would not see a price spike on stock 173.
+A market watcher would not see a price drop on stock 173.
+A market watcher would not see a price spike on stock 174.
+A market watcher would not see a price drop on stock 174.
+A market watcher would not see a price spike on stock 175.
+A market watcher would not see a price drop on stock 175.
+A market watcher would not see a price spike on stock 176.
+A market watcher would not see a price drop on stock 176.
+A market watcher would not see a price spike on stock 177.
+A market watcher would not see a price drop on stock 177.
+A market watcher would not see a price spike on stock 178.
+A market watcher would not see a price drop on stock 178.
+A market watcher would not see a price spike on stock 179.
+A market watcher would not see a price drop on stock 179.
+A market watcher would see an price spike on stock 180 with a price increase of 80.
+A market watcher would see a price drop on stock 180 with a price decrease of 70.
+A market watcher would not see a price spike on stock 181.
+A market watcher would not see a price drop on stock 181.
+A market watcher would not see a price spike on stock 182.
+A market watcher would not see a price drop on stock 182.
+A market watcher would not see a price spike on stock 183.
+A market watcher would not see a price drop on stock 183.
+A market watcher would not see a price spike on stock 184.
+A market watcher would not see a price drop on stock 184.
+A market watcher would not see a price spike on stock 185.
+A market watcher would not see a price drop on stock 185.
+A market watcher would not see a price spike on stock 186.
+A market watcher would not see a price drop on stock 186.
+A market watcher would not see a price spike on stock 187.
+A market watcher would not see a price drop on stock 187.
+A market watcher would not see a price spike on stock 188.
+A market watcher would not see a price drop on stock 188.
+A market watcher would not see a price spike on stock 189.
+A market watcher would not see a price drop on stock 189.
+A market watcher would see an price spike on stock 190 with a price increase of 180.
+A market watcher would not see a price drop on stock 190.
+A market watcher would not see a price spike on stock 191.
+A market watcher would not see a price drop on stock 191.
+A market watcher would not see a price spike on stock 192.
+A market watcher would not see a price drop on stock 192.
+A market watcher would not see a price spike on stock 193.
+A market watcher would not see a price drop on stock 193.
+A market watcher would not see a price spike on stock 194.
+A market watcher would not see a price drop on stock 194.
+A market watcher would not see a price spike on stock 195.
+A market watcher would not see a price drop on stock 195.
+A market watcher would not see a price spike on stock 196.
+A market watcher would not see a price drop on stock 196.
+A market watcher would not see a price spike on stock 197.
+A market watcher would not see a price drop on stock 197.
+A market watcher would not see a price spike on stock 198.
+A market watcher would not see a price drop on stock 198.
+A market watcher would not see a price spike on stock 199.
+A market watcher would not see a price drop on stock 199.
+A market watcher would see an price spike on stock 200 with a price increase of 90.
+A market watcher would see a price drop on stock 200 with a price decrease of 70.
