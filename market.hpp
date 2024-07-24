@@ -5,7 +5,7 @@
 #include <sys/types.h>
 #include <iostream>
 #include <vector>
-#include "P2random.h"
+#include "RandomInput.h"
 using namespace std;
 
 class Market {
@@ -511,8 +511,8 @@ public:
                 }
 
             private:
-                priority_queue<uint32_t, vector<uint32_t>, greater<> > higherNums;
-                priority_queue<uint32_t, vector<uint32_t>, less<> > lowerNums;
+                priority_queue<uint32_t, vector<uint32_t>, std::greater<uint32_t> > higherNums;
+                priority_queue<uint32_t, vector<uint32_t>, std::less<uint32_t> > lowerNums;
 
         };
 
