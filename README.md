@@ -11,14 +11,15 @@ A C++ stock market simulator that processes buy and sell orders from multiple tr
 **Trader Evaluation:** Tracks each trader's net position (long or short) and displays their total buys, sells, and remaining shares.
 
 ### Command-Line Options:
-**Verbose Mode (-v):** Outputs detailed transaction logs for each trade executed.
+**Verbose Mode (-v):** Outputs detailed transaction logs for each trade executed. (test_verbose_output.txt)
 
-**Trader Evaluation Mode (-t):** Outputs a report of all traders and their positions at the end of the simulation.
+**Trader Evaluation Mode (-t):** Outputs a report of all traders and their positions at the end of the simulation. (test_evaluation_output.txt)
 
-**Market Watcher Mode (-w):** Outputs a report of stocks that experienced significant price changes.
+**Market Watcher Mode (-w):** Outputs a report of stocks that experienced significant price changes. (test_watcher_output.txt)
+
+**All command line options (-vtw):** View sample output at test_all_output.txt
 
 ### How It Works
 The Market class simulates a real-time stock market where multiple traders buy and sell shares of various stocks. Buy and sell orders are matched based on price and quantity. If no matching order is available, the order is queued until a match is found.
-
 
 
