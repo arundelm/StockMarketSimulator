@@ -1,18 +1,23 @@
-# Stock Market Simulation
+# Market Simulator
+A C++ stock market simulator that processes buy and sell orders from multiple traders across multiple stocks, matching orders based on price and share quantity. The system includes support for tracking trader performance, market trends, and verbose output for transaction logs.
 
-This project simulates a stock market with various traders executing buy and sell orders on different stocks. The simulation processes orders, matches them, and generates various outputs such as verbose transaction details, median trade values, and interesting price spikes and drops.
+## Features
+**Trader Transactions:** Tracks all buy and sell orders placed by traders, including the number of shares and their corresponding prices.
+**Order Matching:** Matches buy and sell orders for the same stock at the same price, ensuring fair and accurate transactions.
+**Market Watcher:** Monitors stocks for significant price changes (spikes or drops) using a state-based system.
+**Trader Evaluation:** Tracks each trader's net position (long or short) and displays their total buys, sells, and remaining shares.
+Command-Line Options:
+**Verbose Mode (-v):** Outputs detailed transaction logs for each trade executed.
+**Trader Evaluation Mode (-t):** Outputs a report of all traders and their positions at the end of the simulation.
+**Market Watcher Mode (-w):** Outputs a report of stocks that experienced significant price changes.
 
-# Key Features:
-- Simulates a stock market with buy and sell orders, only completing transactions that 
-- Supports verbose transaction logging which details which traders sold, bought, and the amount of shares.
-- Calculates and outputs the median trade values at specific timestamps.
-- Identifies and reports interesting price spikes and drops.
-- Provides a general evaluation of traders' activities.
+### How It Works
+The Market class simulates a real-time stock market where multiple traders buy and sell shares of various stocks. Buy and sell orders are matched based on price and quantity. If no matching order is available, the order is queued until a match is found.
 
-## Setup and Usage
+### Command-Line Options:
 
-### Compilation
-To compile the project, navigate to the project directory and run:
-```sh
-make
+The simulator can be run with various options to adjust the output:
+-v for verbose mode (detailed output for each transaction).
+-t for trader evaluation (shows each trader's performance at the end of the day).
+-w for market watcher mode (reports significant price changes).
 
