@@ -10,6 +10,7 @@ using namespace std;
 
 class Market {
 public:
+    //This enum system is used for the "watcher" method, which tracks whether each stock has undergone a major change
     enum class State {
         Initial, SeenOne, SeenBoth, MaybeBetter
     };
@@ -25,12 +26,14 @@ public:
         Trade maybe;
     };
 
+    //This struct is used for each trader, tracking their amount of stock bought, sold, and their overall net position
     struct Trader {
         int sellAmount;
         int buyAmount;
         int totalShares;
     };
 
+    //This struct is used for each buy/sell order. It holds the price, the amount of shares, the trader, and a unique id
     struct TradeOrder {
         uint32_t value;
         uint32_t shareAmount;
@@ -43,6 +46,7 @@ public:
         readInput();
     }
 
+    //This reads in all of the input containing the buy/sell orders
     void readInput() {
         string labels;
         string inputMode;
@@ -66,21 +70,10 @@ public:
         uint32_t lastTime = 0;
         char garbage;
 
-        stringstream ss;
-        if(inputMode == "PR"){
-            uint32_t seed;
-            uint32_t numOrders;
-            uint32_t arrivalRate;
-            cin >> labels; cin >> seed;
-            cin >> labels; cin >> numOrders;
-            cin >> labels; cin >> arrivalRate;
-            P2random::PR_init(ss, seed, numTraders, numStocks, numOrders, arrivalRate);
-        }
-
-        istream &inputStream = inputMode == "PR" ? ss : cin;
+       
 
         cout << "Processing trades...\n";
-        while(inputStream >> time >> type >> garbage >> traderIndex >> garbage >> stockIndex >> garbage >> value >> garbage >> numShares){
+        while(cin >> time >> type >> garbage >> traderIndex >> garbage >> stockIndex >> garbage >> value >> garbage >> numShares){
             if(time < lastTime){
                 cerr << "Invalid decreasing timestamp" << endl;
                 exit(1);
@@ -89,14 +82,6 @@ public:
 
             // Updates current time
             if(time != currentTime){
-                if(isMedian){
-                    for(size_t i = 0; i < stocks.size(); ++i){
-                        if(stocks[i].tradeExecuted){
-                            cout << "Median trade value on stock " << i
-                            << " at time " << currentTime << " is " << stocks[i].m.median() << ".\n";
-                        }
-                    }
-                }
                 currentTime = time;
             }
 
@@ -118,6 +103,8 @@ public:
                 exit(1);
             } 
 
+            //This code processes sell orders, making necessary changes for whether each mode was selected
+            //If there is an outstanding buy order for the same stock and price, the order will be filled
             traders[traderIndex].totalShares += numShares;
             TradeOrder t = {value, numShares, traderIndex, currentID};
             ++currentID;
@@ -220,10 +207,6 @@ public:
                             }
     
                             
-                            if(isMedian){
-                                stocks[stockIndex].m.push(sharesTraded * 2);
-                                stocks[stockIndex].tradeExecuted = true;
-                            }
                             ++numTransactions;
                         }
                     }
@@ -233,6 +216,9 @@ public:
                     }
                 }
         
+            //This code processes the buy orders
+            //It checks if there is an outstanding sell order that matches the price and the stock
+            //If so, it will fill the order and update each corresponding data structure that matches each mode
             } else if(type == "BUY"){
 
                 if(isWatcher){
@@ -333,10 +319,7 @@ public:
                                 << stockIndex << " to Trader " <<  currBuyer << ".\n";
 
                             }
-                            if(isMedian){
-                                stocks[stockIndex].m.push(sharesTraded);
-                                stocks[stockIndex].tradeExecuted = true;
-                            }
+                           
                             ++numTransactions;
                         }
                     } else {
@@ -352,19 +335,15 @@ public:
 
         }
 
-        if(isMedian){
-            for(size_t i = 0; i < stocks.size(); ++i){
-                if(stocks[i].tradeExecuted){
-                    cout << "Median trade value on stock " << i
-                    << " at time " << currentTime << " is " << stocks[i].m.median() << ".\n";
-                }
-            }
-        }
-
+      
+        //This is the ouput following the end of all orders being processed
+        //It outputs the total number of buy/sell transactions that occurred
         cout << "---End of Day---\n";
         cout << "Transactions: " << numTransactions << "\n";
 
         
+        //This is the trader evaluation output
+        //It tracks whether each trader is net long/short and by how many shares
         if(isTraderEval){
             cout << "---Trader Evaluation---\n";
             for(size_t i = 0; i < traders.size(); ++i){
@@ -381,6 +360,8 @@ public:
             }
         }
 
+        //This is the market watcher output
+        //It tracks whether each stock has undergone a major swing in either direction
         if(isWatcher){
             cout << "---Market Watcher---\n";
             for(size_t i = 0; i < stocks.size(); ++i){
@@ -403,20 +384,21 @@ public:
         
     }
 
+    //This is the command line parsing
+    //It processes and sets the output mode 
     void getMode(const int argc, char* argv[]) {
         opterr = false;
         int choice = 0;
         int index = 0;
         option long_options[] = {
             { "verbose",       no_argument, nullptr,  'v'},
-            { "median",       no_argument, nullptr,  'm'},
             {"trader-eval", no_argument, nullptr,  't'},
             {"watcher", no_argument, nullptr,  'w'}, 
             {  "help",       no_argument, nullptr,  'h'},
             { nullptr,                 0, nullptr, '\0'},
         };
 
-        while ((choice = getopt_long(argc, argv, "vmtwh", long_options, &index)) != -1) {
+        while ((choice = getopt_long(argc, argv, "vtwh", long_options, &index)) != -1) {
             switch (choice) {
             case 'h':
                 exit(0);
@@ -426,10 +408,7 @@ public:
                 break;
             }
 
-            case 'm': {
-                isMedian = true;
-                break;
-            }
+        
 
             case 't': {
                 isTraderEval = true;
@@ -473,56 +452,14 @@ public:
             }
         };
         
-        class Median {
-            friend class Stock;
-            public:
-                
-                void push(uint32_t val){
-                    if(higherNums.empty()){
-                        higherNums.push(val);
-                        return;
-                    } else {
-
-                        if(val >= higherNums.top()){
-                            higherNums.push(val);
-                        } else {
-                            lowerNums.push(val);
-                        }
-
-                    }
-
-                    if(lowerNums.size() - higherNums.size() == 2){
-                        higherNums.push(lowerNums.top());
-                        lowerNums.pop();
-                    } else if(higherNums.size() - lowerNums.size() == 2){
-                        lowerNums.push(higherNums.top());
-                        higherNums.pop();
-                    }
-                }
-
-                uint32_t median(){
-                    if(higherNums.size() == lowerNums.size()){
-                        return ( lowerNums.top() + higherNums.top() ) / 2;
-                    } else if(lowerNums.size() > higherNums.size()){
-                        return lowerNums.top();
-                    } else {
-                        return higherNums.top();
-                    }
-                }
-
-            private:
-                priority_queue<uint32_t, vector<uint32_t>, std::greater<uint32_t> > higherNums;
-                priority_queue<uint32_t, vector<uint32_t>, std::less<uint32_t> > lowerNums;
-
-        };
+       
 
         private:
             priority_queue<TradeOrder, vector<TradeOrder>, sellerCompare> sellers;
             priority_queue<TradeOrder, vector<TradeOrder>, buyerCompare> buyers;
-            Median m;
             Watcher fillSell;
             Watcher fillBuy;
-            bool tradeExecuted = false;
+
     };
 
 private:
@@ -534,7 +471,6 @@ private:
     uint32_t currentTime = 0;
     uint32_t currentID = 0;
     bool isVerbose = false;
-    bool isMedian = false;
     bool isTraderEval = false;
     bool isWatcher = false;
 
